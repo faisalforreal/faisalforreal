@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/29cf9353-a43a-4750-bcf1-94fb6a17c9bb"
-    width="400"
-    alt="Pixel art coding animation"
-  />
-</p>
+<img
+  align="center"
+  src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67"
+  alt="MultiTaskingGuy"
+/>
+
 <h3 align="center">Final Year CS Student @ Jadavpur University | Full-Stack Dev | Diving into AI/ML | Prepping for Placements</h3>
 
 <p align="center">
